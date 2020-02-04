@@ -1,7 +1,6 @@
 workspace:
   base: /go
   path: src/github.com/drone-plugins/drone-docker
-
 pipeline:
   test:
     image: golang:1.6
