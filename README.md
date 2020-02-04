@@ -11,7 +11,7 @@ please take a look at [the docs](DOCS.md).
 ## Build
 
 Build the binary with the following commands:
-
+ 
 ```
 go build
 go test
